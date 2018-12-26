@@ -1,1 +1,1 @@
-Création du site BetterMotherFuckingWebsite
+Exercice HTML/CSS : Site BetterMotherFuckingWebsite
