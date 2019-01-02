@@ -3,18 +3,28 @@ body {
     font-size: 1.125rem;
     margin: 2.5rem auto;
     max-width: 40.625rem;
-    line-height: 2rem;
+    line-height: 2.4rem;
     padding: 0 0.625rem;
 }
 
 h1,h2,h3 {
-    line-height: 1.2rem;
+    line-height: 1.950rem;
+}
+
+h1 {
+    padding-top: 0.4rem;
+    padding-bottom: 0.3rem;
 }
 
 .police {
     font-family: monospace;
+    font-size: larger;
 }
 
 .italic {
     font-style: italic
+}
+
+p, li {
+    line-height: 1.770rem;
 }
