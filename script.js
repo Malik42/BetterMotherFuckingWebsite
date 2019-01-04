@@ -1,6 +1,6 @@
-function popupBasique() 
+function Popup() 
 {
-    window.alert("bonjour");
+    prompt("Veux tu allez sur xxxvidsxxx");
 }  
 
-popupBasique();
+Popup();
