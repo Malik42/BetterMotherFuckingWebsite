@@ -4,10 +4,7 @@ function Chrono() {
   
   function Popup() {
     validation = confirm("Veux tu allez sur xxxvidsxxx");
-    if (xvids == true) {
-      window.location = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
-    }
-     Chrono();
+    window.location = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
   }
   
- 
+  Chrono();
