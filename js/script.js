@@ -7,7 +7,7 @@ function Chrono() {
     if (xvids == true) {
       window.location = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
     }
-    
+     Chrono();
   }
   
-  Chrono();
+ 
