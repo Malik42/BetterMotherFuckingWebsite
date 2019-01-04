@@ -1,4 +1,4 @@
-function popupBasique(page) 
+function popupBasique() 
 {
-    window.open(page);
+    window.alert("bonjour");
 }  
